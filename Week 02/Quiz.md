@@ -17,7 +17,7 @@ When writing a document in R Markdown, how do you denote the beginning of an R c
 
 ### Answer
 
-```{r}  
+````{r}`  
 
 Question 3
 ----------

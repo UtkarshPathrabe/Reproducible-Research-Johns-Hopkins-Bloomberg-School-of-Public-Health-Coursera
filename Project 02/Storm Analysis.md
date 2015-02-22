@@ -36,7 +36,7 @@ There is also some documentation of the data available
 The first step is to read the data into a data frame.
 
 ```r
-storm <- read.csv(bzfile("data/repdata-data-StormData.csv.bz2"))
+storm <- read.csv(bzfile("StormData.csv.bz2"))
 ```
 
 Before the analysis, the data need some preprocessing. Event types don't have a
